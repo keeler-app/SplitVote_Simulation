@@ -133,10 +133,7 @@ See the LICENSE file for full terms.
 
 ## 🧠 About KeelerApp
 
-**KeelerApp** is an applied AI consultancy focused on **agentic intelligence**,  
-**explainable analytics**, and **pedagogical systems for human-centered AI**.  
-It integrates data science, process automation, and strategic consulting  
-under the **Tetradic Framework** — *Strategy, Analytics, Agenticity, Training.*
+**KeelerApp** is an applied AI consultancy focused on **agentic intelligence**, **explainable analytics**, and **pedagogical systems for human-centered AI**.  It integrates data science, process automation, and strategic consulting under the **Tetradic Framework** — *Strategy, Analytics, Agenticity, Training.*
 
 > Learn more at [keeler.app](https://keeler.app)
 
